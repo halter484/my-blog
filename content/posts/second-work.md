@@ -10,3 +10,4 @@ tags = ['棒針']
 ## 作品について
 
 {{< figure src="/my-blog/images/haninabz-summer-10346341.jpg" alt="作品の写真" width="500" >}}
+*2つ目に編んだ作品*
