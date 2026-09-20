@@ -7,5 +7,6 @@ tags = ['棒針']
 +++
 ## 作品について
 {{< figure src="/my-blog/images/merandadevanart-woman-portrait-10367535_1280.png" alt="作品の写真" width="500" >}}
+*はじめて編んだ作品*
 
 これは、これから作っていく作品の記録です。
