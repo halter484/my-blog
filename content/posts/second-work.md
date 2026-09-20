@@ -11,3 +11,5 @@ tags = ['棒針']
 
 {{< figure src="/my-blog/images/haninabz-summer-10346341.jpg" alt="作品の写真" width="500" >}}
 *2つ目に編んだ作品*
+
+この作品は、編み方を確認しながら一つひとつ丁寧に編みました。
