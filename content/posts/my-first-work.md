@@ -9,4 +9,6 @@ tags = ['棒針']
 {{< figure src="/my-blog/images/merandadevanart-woman-portrait-10367535_1280.png" alt="作品の写真" width="500" >}}
 *はじめて編んだ作品*
 
+この作品は、久しぶりに編み針を持って作ったものです。
+
 これは、これから作っていく作品の記録です。
