@@ -13,6 +13,10 @@ theme = 'PaperMod'
   name = 'カテゴリー'
   url = '/categories/'
   weight = 20
+[[menu.main]]
+  name = '作品'
+  url = '/categories/作品/'
+  weight = 30
 [params.homeInfoParams]
   Title = 'KnittingDiary'
   Content = '編み物の楽しさや日々の制作記録、初心者向けの編み方や作品づくりのヒントを紹介しています。'
