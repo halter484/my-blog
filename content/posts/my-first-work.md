@@ -3,7 +3,7 @@ title = 'はじめて編んだ作品'
 date = '2026-09-20T20:00:00+09:00'
 draft = false
 categories = ['作品']
-tags = ['棒針']
+tags = ['棒針', 'かぎ針']
 +++
 ## 作品について
 {{< figure src="/my-blog/images/merandadevanart-woman-portrait-10367535_1280.png" alt="作品の写真" width="500" >}}
