@@ -5,5 +5,4 @@ draft = false
 categories = ['作品']
 tags = ['棒針']
 +++
-
 これは2つ目に編んだ作品の記録です。
