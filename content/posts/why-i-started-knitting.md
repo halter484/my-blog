@@ -5,7 +5,7 @@ title = '編み物を始めたきっかけ'
 tags = ['編み物']
 categories = ['編み物']
 +++
-![編み物のイメージ](/my-blog/images/mohamed_hassan-yarn-8502110_640.jpg)
+{{< figure src="/my-blog/images/mohamed_hassan-yarn-8502110_640.jpg" alt="編み物のイメージ" width="500" >}}
 *編み物に使う毛糸*
 
 編み物を始めたきっかけは、今から何十年も前のことになります。
