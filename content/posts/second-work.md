@@ -1,5 +1,5 @@
 +++
-title = '2つ目の作品'
+title = '2つ目に編んだ作品'
 date = '2026-09-20T20:00:00+09:00'
 draft = false
 categories = ['作品']
