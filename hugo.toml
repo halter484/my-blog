@@ -5,7 +5,6 @@ theme = 'PaperMod'
 [params]
   description = '編み物の楽しさを記録するブログ。初心者向けの編み方や作品づくりのヒントを紹介します。'
   ShowDate = true
-  footer = '© 2026 KnittingDiary'
 [[menu.main]]
   name = 'About'
   url = '/about/'
@@ -21,3 +20,4 @@ theme = 'PaperMod'
 [params.homeInfoParams]
   Title = 'KnittingDiary'
   Content = '編み物の楽しさや日々の制作記録、初心者向けの編み方や作品づくりのヒントを紹介しています。'
+　footer = '© 2026 KnittingDiary'
