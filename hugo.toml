@@ -1,7 +1,7 @@
 baseURL = 'https://halter484.github.io/my-blog/'
 languageCode = 'ja-jp'
 title = 'KnittingDiary'
-theme = 'PaperMod'
+theme = 'MatsuriTheme'
 
 [params]
   description = '編み物の楽しさを記録するブログ。初心者向けの編み方や作品づくりのヒントを紹介します。'
