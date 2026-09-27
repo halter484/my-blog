@@ -26,11 +26,11 @@ theme = 'PaperMod'
   name = 'タグ'
   url = '/tags/'
   weight = 30
-
-[[menu.main]]
-　name = 'お問い合わせ'
-　url = '/contact/'
-　weight = 40
+  
+  [[menu.main]]
+name = 'お問い合わせ'
+url = '/contact/'
+weight = 40
 
 [params.homeInfoParams]
   Title = 'KnittingDiary'
