@@ -1,6 +1,6 @@
 baseURL = 'https://halter484.github.io/my-blog/'
 languageCode = 'ja-jp'
-title = 'KnittingDiary'
+title = 'YarnDiary'
 theme = 'PaperMod'
 
 [params]
