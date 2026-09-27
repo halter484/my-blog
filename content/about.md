@@ -1,10 +1,10 @@
-# KnittingDiaryについて
+# YarnDiaryについて
 
-KnittingDiaryへようこそ
+YarnDiaryへようこそ
 
 ## はじめに
 
-こんにちは、編み物愛好家のpermanです。このブログ「KnittingDiary」は、私の編み
+こんにちは、編み物愛好家のpermanです。このブログ「YarnDiary」は、私の編み
 物の旅を通じて、編み物の魅力と知識を共有する場所です。
 
 ## 私の経歴
